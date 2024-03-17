@@ -61,11 +61,11 @@ a{
 }
 
 .footer{
+  margin-left: 0px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   align-content: flex-start;
   justify-content: space-evenly;
   width: 25%;
-  
 }
